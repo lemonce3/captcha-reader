@@ -1,0 +1,28 @@
+{
+  "name": "captcha-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "koa-bodyparser": "^4.2.1",
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "randexp": "^0.5.3",
+    "sharp": "^0.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemonce3/captcha-reader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemonce3/captcha-reader/issues"
+  },
+  "homepage": "https://github.com/lemonce3/captcha-reader#readme"
+}

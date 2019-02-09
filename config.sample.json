@@ -1,0 +1,8 @@
+{
+	"staticPath": "www",
+	"captchaPath": "python\\temp",
+	"train": {
+		"fileName": "captcha_predict.py",
+		"projectPath": "python"
+	}
+}
